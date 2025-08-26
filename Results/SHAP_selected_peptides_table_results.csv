@@ -1,0 +1,19 @@
+peptide_name,Position,Length,Description,Species,mean_abs_shap,%Control,%IBD,log(ods_ratio)
+twist_54214,204,2164.0,polyprotein,Rhinovirus A,0.96359694,0.55,0.225,-0.8938178760220965
+twist_43798,0,245.0,BZLF1,Lymphocryptovirus humangamma4,0.55352247,0.4,0.625,0.44628710262841953
+agilent_9025,44,1039.0,Bvh-3,Streptococcus pneumoniae,0.3757301,0.675,0.375,-0.5877866649021192
+agilent_241665,264,437.0,Immunoglobulin-binding protein Sbi,Staphylococcus aureus,0.41773874,0.425,0.125,-1.2237754316221157
+twist_51296,714,992.0,EBNA3C latent protein,Lymphocryptovirus humangamma4,0.3824615,0.175,0.4,0.826678573184468
+agilent_8318,395,,Epstein-Barr nuclear antigen 1,Lymphocryptovirus humangamma4,0.42003503,0.15,0.325,0.7731898882334819
+corona2_8999,176,419,nucleocapsid protein,Severe acute respiratory syndrome coronavirus,0.5266653,0.3,0.05,-1.791759469228055
+twist_54947,816,,Rhinovirus B  Genome polyprotein,Rhinovirus B,0.43470183,0.25,0.45,0.5877866649021191
+twist_46426,433,487.0,nuclear protein EBNA2,Lymphocryptovirus humangamma4,0.33732852,0.525,0.3,-0.5596157879354228
+agilent_240812,88,1024.0,"Hemolysin, chromosomal",Escherichia coli,0.25632536,0.1,0.3,1.0986122886681096
+agilent_6936,423,487.0,Epstein-Barr nuclear antigen 2,Lymphocryptovirus humangamma4,0.19747752,0.575,0.4,-0.3629054936893683
+agilent_242591,836,905.0,Heme/hemopexin-binding protein,Haemophilus influenzae,0.26531777,0.675,0.425,-0.4626235219481131
+twist_48320,68,853.0,pneumococcal histidine triad protein D,Streptococcus pneumoniae,0.1936724,0.875,0.625,-0.3364722366212129
+agilent_12023,0,,,Cytomegalovirus humanbeta5,0.12070403,0.65,0.55,-0.1670540846631662
+twist_55260,1573,1627.0,Adhesin P1 precursor,Mycoplasmoides pneumoniae,0.31934184,0.2,0.275,0.3184537311185346
+twist_56007,918,1049.0,phosphoprotein 150,Cytomegalovirus humanbeta5,0.19551635,0.175,0.425,0.8873031950009029
+twist_58788,0,,Enterovirus C  Genome polyprotein,Enterovirus C,0.27282986,0.525,0.3,-0.5596157879354228
+twist_25251,102,188.0,Sus s 12,Sus scrofa,0.097160675,0.275,0.1,-1.0116009116784799

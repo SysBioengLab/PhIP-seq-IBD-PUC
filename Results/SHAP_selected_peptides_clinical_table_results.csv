@@ -1,0 +1,12 @@
+,Position,Length,Description,Species,mean_abs_shap,%Control,%IBD,log(ods_ratio)
+twist_54214,204,2164.0,polyprotein,Rhinovirus A,0.90782803,0.55,0.225,-0.8938178760220965
+smoking,0,0,0,0,0.8609907,0.325,0.625,0.6539264674066639
+twist_43798,0,245.0,BZLF1,Lymphocryptovirus humangamma4,0.57179034,0.4,0.625,0.44628710262841953
+twist_51296,714,992.0,EBNA3C latent protein,Lymphocryptovirus humangamma4,0.8108075,0.175,0.4,0.826678573184468
+agilent_9025,44,1039.0,Bvh-3,Streptococcus pneumoniae,0.34905258,0.675,0.375,-0.5877866649021192
+twist_54947,816,,Rhinovirus B  Genome polyprotein,Rhinovirus B,0.6656177,0.25,0.45,0.5877866649021191
+agilent_242591,836,905.0,Heme/hemopexin-binding protein,Haemophilus influenzae,0.48009863,0.675,0.425,-0.4626235219481131
+agilent_8318,395,,Epstein-Barr nuclear antigen 1,Lymphocryptovirus humangamma4,0.023230355,0.15,0.325,0.7731898882334819
+agilent_241665,264,437.0,Immunoglobulin-binding protein Sbi,Staphylococcus aureus,0.43994665,0.425,0.125,-1.2237754316221157
+twist_46426,433,487.0,nuclear protein EBNA2,Lymphocryptovirus humangamma4,0.241007,0.525,0.3,-0.5596157879354228
+agilent_6936,423,487.0,Epstein-Barr nuclear antigen 2,Lymphocryptovirus humangamma4,0.8488325,0.575,0.4,-0.3629054936893683
